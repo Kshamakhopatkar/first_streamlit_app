@@ -1,7 +1,7 @@
-import streamlit
+ import streamlit
 streamlit.title ('My Parents new healthy dinner!')
 streamlit.title ('Breakfast Menu')
 
-streamlit.title ('My Parents new healthy dinner!')
-streamlit.title ('My Parents new healthy dinner!')
+streamlit.title ('Omega 3 & Omlet')
+streamlit.title ('High boiled Egg')
 streamlit.title ('My Parents new healthy dinner!')
